@@ -1,0 +1,4669 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 3317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32436574064889,
+          38.94048247004809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3317,
+        "NOTES": "VIR L2 STR 2",
+        "NUMBER_": "882-4792",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32422683344645,
+          38.946571616825985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3318,
+        "NOTES": "UAG L2 SW",
+        "NUMBER_": "884-2808",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33263074040896,
+          38.945455897284695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3319,
+        "NOTES": "MARK TWAIN",
+        "NUMBER_": "882-0254",
+        "BLDG_CODE": "37185",
+        "NAME": "MARK TWAIN HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32124794942604,
+          38.94099825551854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3320,
+        "NOTES": "COLLEGE AVE HOUSING SOUTH",
+        "NUMBER_": "884-6813",
+        "BLDG_CODE": "37219",
+        "NAME": "COLLEGE AVE HOUSING",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33265131887934,
+          38.938242093189494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3321,
+        "NOTES": "WG-6 WEST SIDE OF LOT",
+        "NUMBER_": "884-6896",
+        "BLDG_CODE": " ",
+        "NAME": "EAST SIDE SOUTH HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E27A",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33110519707081,
+          38.9010345707345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3322,
+        "NOTES": "East Side of SPMB",
+        "NUMBER_": "884-4806",
+        "BLDG_CODE": "42414",
+        "NAME": "SOUTH PROVIDENCE MEDICAL BUILDING",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": null,
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32514321590493,
+          38.93989383410289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3323,
+        "NOTES": "VIR L3 STR 4",
+        "NUMBER_": "882-4689",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32594913151327,
+          38.93733598730577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3324,
+        "NOTES": "PS#7 L2 STR 1",
+        "NUMBER_": "884-9715",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32336717729599,
+          38.944973323589736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3325,
+        "NOTES": "CURTIS/SCHLUNDT N SIDE",
+        "NUMBER_": "884-7129",
+        "BLDG_CODE": " ",
+        "NAME": "NORTH SIDE CURTIS HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount old Phone Stand w/Light",
+        "LOC": "E37",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104512506016,
+          38.94396038779734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3326,
+        "NOTES": "TAG L5 STR 2",
+        "NUMBER_": "884-0829",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32579930893074,
+          38.94708725557618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3327,
+        "NOTES": "HSG L6 STR 4",
+        "NUMBER_": "884-3263",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32595126888206,
+          38.93740580592569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3328,
+        "NOTES": "PS#7 L5 STR 1",
+        "NUMBER_": "884-9719",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32758928478137,
+          38.94166789374567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3329,
+        "NOTES": "MATH SCI./STU.REC",
+        "NUMBER_": "884-7131",
+        "BLDG_CODE": " ",
+        "NAME": "WESTSIDE STUDENT RECREATION CENTER",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E25",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32440134524806,
+          38.93740991576478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3331,
+        "NOTES": "PS#7 L5 STR 2",
+        "NUMBER_": "884-9742",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32232885095833,
+          38.944103885328886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3332,
+        "NOTES": "Chemistry Bldg 2nd Floor E Hall",
+        "NUMBER_": "884-8281",
+        "BLDG_CODE": "37278",
+        "NAME": "CHEMISTRY TEACHING LABORATORY",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "F2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32285164708092,
+          38.938734535698465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3333,
+        "NOTES": "GATEWAY",
+        "NUMBER_": "777-6164",
+        "BLDG_CODE": "37398 ",
+        "NAME": "NORTH SIDE GATEWAY",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Post w/Light",
+        "LOC": null,
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32579900955108,
+          38.94702763825389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3334,
+        "NOTES": "HSG L3 STR 4",
+        "NUMBER_": "884-3772",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33018409797238,
+          38.94363476353813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3335,
+        "NOTES": "TAG L7 STR 4",
+        "NUMBER_": "884-7127",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L7",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32652867472139,
+          38.94767843167764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3336,
+        "NOTES": "HSG L2 STR 2",
+        "NUMBER_": "884-2712",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32647120314064,
+          38.94817380251044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3337,
+        "NOTES": "HSG L1 STR 1",
+        "NUMBER_": "884-3071",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104497880458,
+          38.94394084378961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3338,
+        "NOTES": "TAG L4 STR 2",
+        "NUMBER_": "884-0826",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33030505469274,
+          38.93918234822284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3339,
+        "NOTES": "TAPS L4 STR 3",
+        "NUMBER_": "884-2812",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32232920963962,
+          38.944104376834424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3340,
+        "NOTES": "Chemistry Bldg near A306",
+        "NUMBER_": "884-8283",
+        "BLDG_CODE": "37278",
+        "NAME": "CHEMISTRY TEACHING LABORATORY",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "F3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34062313188396,
+          38.93612210039723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3341,
+        "NOTES": "WALTON FIELD/SOCCER FIELD AREA",
+        "NUMBER_": "884-1769",
+        "BLDG_CODE": " ",
+        "NAME": "WEST SIDE OF WALTON STADIUM",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33231072134501,
+          38.9451877677477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3342,
+        "NOTES": "MARK TWAIN",
+        "NUMBER_": "771-5125",
+        "BLDG_CODE": "37125",
+        "NAME": "MARK TWAIN HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3260692534406,
+          38.94005653804681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3343,
+        "NOTES": "DEFOE-GRAHAM W HALL E DOOR",
+        "NUMBER_": " ",
+        "BLDG_CODE": "37318",
+        "NAME": "DEFOE-GRAHAM",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31640500598267,
+          38.936114274565234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3345,
+        "NOTES": "AV14-EAST SIDE",
+        "NUMBER_": "884-2286",
+        "BLDG_CODE": " ",
+        "NAME": "AV14 PARKING LOT",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E12",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32653004450131,
+          38.947730315046435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3288,
+        "NOTES": "HSG L4 STR 2",
+        "NUMBER_": "884-3042",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3299420623309,
+          38.94837396870242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3289,
+        "NOTES": "PEACE PARK/7TH",
+        "NUMBER_": "884-1890",
+        "BLDG_CODE": " ",
+        "NAME": "PEACE PARK AT 7TH ST",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E30",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32959396090816,
+          38.93256273430924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3290,
+        "NOTES": "BUS STOP / HEARNES",
+        "NUMBER_": "884-7139",
+        "BLDG_CODE": " ",
+        "NAME": "SE HEARNES BLDG BUS STOP",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E9",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32554027719023,
+          38.93658402592756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3291,
+        "NOTES": "PS#7 L3 STR 4",
+        "NUMBER_": "884-9706",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32652985627752,
+          38.947701991371275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3292,
+        "NOTES": "HSG L3 STR 2",
+        "NUMBER_": "884-3273",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33041415043023,
+          38.93864078236796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3293,
+        "NOTES": "TAPS L6 STR 2",
+        "NUMBER_": "884-2820",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32351235461628,
+          38.947357291545764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3294,
+        "NOTES": "UAG L4 NE",
+        "NUMBER_": "882-1785",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33042940957696,
+          38.938617057383176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3295,
+        "NOTES": "TAPS L5 STR 2",
+        "NUMBER_": "884-2815",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33016901491384,
+          38.94352375318515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3296,
+        "NOTES": "TAG L3 STR 4",
+        "NUMBER_": "884-7123",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32355122943827,
+          38.946604091706476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3297,
+        "NOTES": "UAG L4 SE",
+        "NUMBER_": "882-1650",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33013395081765,
+          38.944021617199056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3298,
+        "NOTES": "TAG L7 STR 3",
+        "NUMBER_": "884-1324",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L7",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32595049530855,
+          38.937363180423624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3299,
+        "NOTES": "PS#7 L3 STR 1",
+        "NUMBER_": "884-9716",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31647429754797,
+          38.937022803048656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3300,
+        "NOTES": "BUS STOP / AV-14",
+        "NUMBER_": "884-7135",
+        "BLDG_CODE": " ",
+        "NAME": "AV14 PARKING LOT - BUS STOP",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Post w/Light",
+        "LOC": "E13",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33018128196323,
+          38.943612607702725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3301,
+        "NOTES": "TAG L6 STR 4",
+        "NUMBER_": "884-7126",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32255010466166,
+          38.94410702712587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3302,
+        "NOTES": "Chemistry Bldg Near A305",
+        "NUMBER_": "884-8284",
+        "BLDG_CODE": "37278",
+        "NAME": "CHEMISTRY TEACHING LABORATORY",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "F3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32506310716967,
+          38.940501011649225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3303,
+        "NOTES": "VIR L2 STR 1",
+        "NUMBER_": "882-4803",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982057669058,
+          38.939309376281955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3304,
+        "NOTES": "TAPS L5 STR 5",
+        "NUMBER_": "884-2819",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3264775506808,
+          38.94701530208354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3305,
+        "NOTES": "HSG L2 STR 3",
+        "NUMBER_": "884-2714",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3301671240759,
+          38.94390773491524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3306,
+        "NOTES": "TAG L3 STR 3",
+        "NUMBER_": "884-0239",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32506350548515,
+          38.94050743706416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3307,
+        "NOTES": "VIR L3 STR 1",
+        "NUMBER_": "882-4596",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33016291745122,
+          38.94393030572999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3308,
+        "NOTES": "TAG L4 STR 3",
+        "NUMBER_": "884-0526",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33014527251832,
+          38.94399229230719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3309,
+        "NOTES": "TAG L6 STR 3",
+        "NUMBER_": "884-1188",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32433717127091,
+          38.93986991540015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3310,
+        "NOTES": "VIR L3 STR 3",
+        "NUMBER_": "882-4726",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32436595130028,
+          38.94051350713639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3311,
+        "NOTES": "VIR L6 STR 2",
+        "NUMBER_": "882-4782",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33045307690175,
+          38.938617782709535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3312,
+        "NOTES": "TAPS L4 STR 2",
+        "NUMBER_": "884-2811",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33121681571421,
+          38.944778267662066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3313,
+        "NOTES": "CAG L2 SE",
+        "NUMBER_": "884-2781",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32332736339508,
+          38.940715671021884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3314,
+        "NOTES": "BETWEEN VIRGINIA AVE/PLAZA 900",
+        "NUMBER_": "884-2442",
+        "BLDG_CODE": " ",
+        "NAME": "WEST OF PLAZA 900",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E21",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32436586692313,
+          38.9405056282296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3315,
+        "NOTES": "VIR L5 STR 2",
+        "NUMBER_": "882-4793",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3335833026936,
+          38.938433991095984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3316,
+        "NOTES": "SW HOUSING SOUTH HALL",
+        "NUMBER_": "771-5562",
+        "BLDG_CODE": "37292",
+        "NAME": "SOUTH HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3250640633087,
+          38.94052030194966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3259,
+        "NOTES": "VIR L5 STR 1",
+        "NUMBER_": "882-4620",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33083067395987,
+          38.94409167508258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3260,
+        "NOTES": "TAG CONLEY ENTRANCE",
+        "NUMBER_": "884-0342",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33134513598418,
+          38.94143904174017
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3261,
+        "NOTES": "N side Burnam at Richmond Ave",
+        "NUMBER_": "882-4235",
+        "BLDG_CODE": " ",
+        "NAME": "BURNAM AND RICHMOND AVE",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Utility Pole w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32646764430761,
+          38.948220140167585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3262,
+        "NOTES": "HSG L5 STR 1",
+        "NUMBER_": "884-3075",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32983320066066,
+          38.93842267401543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3263,
+        "NOTES": "TAPS L3 STR 4",
+        "NUMBER_": "884-2809",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32334889350044,
+          38.936216342256664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3264,
+        "NOTES": "SE Parking Lot",
+        "NUMBER_": "884-3866",
+        "BLDG_CODE": " ",
+        "NAME": "SE NEW PARKING GARAGE IN PARKING LOT",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Utility Pole w/Light",
+        "LOC": "E19",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32498509955961,
+          38.941969328482784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3265,
+        "NOTES": "JOHNSTON HALL",
+        "NUMBER_": "771-2071",
+        "BLDG_CODE": "37120",
+        "NAME": "JOHNSTON HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Post w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104514395602,
+          38.94392375142729
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3266,
+        "NOTES": "TAG L3 STR 2",
+        "NUMBER_": "884-0477",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32983045382099,
+          38.93839052879173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3267,
+        "NOTES": "TAPS L2 STR 4",
+        "NUMBER_": "884-2804",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3251432640642,
+          38.93988502752506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3268,
+        "NOTES": "VIR L2 STR 4",
+        "NUMBER_": "882-4528",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982711625331,
+          38.93845931328797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3269,
+        "NOTES": "TAPS L4 STR 4",
+        "NUMBER_": "884-2813",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32554259623562,
+          38.93660259039175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3270,
+        "NOTES": "PS#7 L4 STR 4",
+        "NUMBER_": "884-9710",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32272161691009,
+          38.93986073827137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3271,
+        "NOTES": "DISCOVERY HALL",
+        "NUMBER_": "884-2144",
+        "BLDG_CODE": "37038",
+        "NAME": "DISCOVERY HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33036700755216,
+          38.945251471994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3272,
+        "NOTES": "N OF TOWNSEND",
+        "NUMBER_": "884-7137",
+        "BLDG_CODE": " ",
+        "NAME": "NORTH SIDE OF TOWNSEND HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E29",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32522552912926,
+          38.936490124917924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3273,
+        "NOTES": "South Side Parking Structure #7",
+        "NUMBER_": "884-9744",
+        "BLDG_CODE": " ",
+        "NAME": "PARKING STRUCTURE #7 SOUTHSIDE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32652857736497,
+          38.94778274911765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3274,
+        "NOTES": "HSG L6 STR 2",
+        "NUMBER_": "884-3264",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32436564736358,
+          38.940499242718396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3275,
+        "NOTES": "VIR L4 STR 2",
+        "NUMBER_": "882-4747",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33158585132925,
+          38.94378140413927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3276,
+        "NOTES": "TAG L6 STR 1",
+        "NUMBER_": "884-1279",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32422349727862,
+          38.9465491871207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3277,
+        "NOTES": "UAG L1 SW",
+        "NUMBER_": "884-7116",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32197687550155,
+          38.93340758268993
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3278,
+        "NOTES": "1400 Rock Quarry",
+        "NUMBER_": "882-9995",
+        "BLDG_CODE": "37089",
+        "NAME": "ROCK QUARRY CENTER",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33157853216342,
+          38.94372139831136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3279,
+        "NOTES": "TAG L3 STR 1",
+        "NUMBER_": "884-0355",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32440092856903,
+          38.937389920899236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3280,
+        "NOTES": "PS#7 L4 STR 2",
+        "NUMBER_": "884-9741",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32514423122801,
+          38.93991533336254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3281,
+        "NOTES": "VIR L5 STR 4",
+        "NUMBER_": "882-4600",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104633035425,
+          38.94390505073605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3282,
+        "NOTES": "TAG L2 STR 2",
+        "NUMBER_": "884-7122",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3217547094693,
+          38.93918970904187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3283,
+        "NOTES": "TELECOM-NORTH DOOR",
+        "NUMBER_": "882-5171",
+        "BLDG_CODE": "37142",
+        "NAME": "TELECOM NORTH DOOR",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3259502891484,
+          38.93738476074217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3284,
+        "NOTES": "PS#7 L4 STR 1",
+        "NUMBER_": "884-9718",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33015221697246,
+          38.9439564803779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3285,
+        "NOTES": "TAG L5 STR 3",
+        "NUMBER_": "884-0828",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104437290865,
+          38.94397206794405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3286,
+        "NOTES": "TAG L6 STR 2",
+        "NUMBER_": "884-1165",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32647968705395,
+          38.947065025476554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3287,
+        "NOTES": "HSG L5 STR 3",
+        "NUMBER_": "884-2954",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32640429596577,
+          38.94580255140881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3230,
+        "NOTES": "WEST OF FINE ARTS/WC-7",
+        "NUMBER_": "882-9987",
+        "BLDG_CODE": " ",
+        "NAME": "NW CORNER FINE ARTS BLDG",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E35",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31879917792925,
+          38.94200010415444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3231,
+        "NOTES": "AG END / AV-3",
+        "NUMBER_": "884-7136",
+        "BLDG_CODE": " ",
+        "NAME": "EAST ROLLINS ST & EAST CAMPUS DR",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E17",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32764109564735,
+          38.933867975170386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3232,
+        "NOTES": "Loading Dock at General Services Bldg",
+        "NUMBER_": "882-2044",
+        "BLDG_CODE": "37224",
+        "NAME": "GENERAL SERVICES BUILDING",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32754048200444,
+          38.93146873299304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3233,
+        "NOTES": "SG4 Parking Lot near Marching Band Practice Field",
+        "NUMBER_": "884-1306",
+        "BLDG_CODE": null,
+        "NAME": "SG4 Parking Lot",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E10",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32648045583123,
+          38.94707949775821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3234,
+        "NOTES": "HSG L6 STR 3",
+        "NUMBER_": "884-3262",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32350919080447,
+          38.947303578518266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3235,
+        "NOTES": "UAG L1 NE",
+        "NUMBER_": "884-2718",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33052337924241,
+          38.93781824323059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3236,
+        "NOTES": "TAPS L2 STR 1",
+        "NUMBER_": "884-8256",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982039635678,
+          38.93930230169082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3238,
+        "NOTES": "TAPS L6 STR 5",
+        "NUMBER_": "884-8262",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32983099771076,
+          38.93836083415707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3239,
+        "NOTES": "TAPS L1 STR 4",
+        "NUMBER_": "884-2798",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33189381929027,
+          38.94479597511257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3240,
+        "NOTES": "CAG L2 SW",
+        "NUMBER_": "884-2779",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33134985711857,
+          38.94783391482412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3241,
+        "NOTES": "MCDAVID HALL",
+        "NUMBER_": "771-4070",
+        "BLDG_CODE": "37125",
+        "NAME": "MCDAVID HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32554255036173,
+          38.93662131347342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3242,
+        "NOTES": "PS#7 L5 STR 4",
+        "NUMBER_": "884-9712",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32476261851409,
+          38.93656259388842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3243,
+        "NOTES": "PS#7 L2 STR 3",
+        "NUMBER_": "884-9722",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32757618019103,
+          38.940609434353625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3244,
+        "NOTES": "West Side Hawthorn bottom stairs",
+        "NUMBER_": "884-9050",
+        "BLDG_CODE": " ",
+        "NAME": "WEST SIDE HAWTHORN ",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E24",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32647819115849,
+          38.94705069714961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3245,
+        "NOTES": "HSG L4 STR 3",
+        "NUMBER_": "884-3074",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3183938534389,
+          38.937291043511536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3247,
+        "NOTES": "TROWBRIDGE/AV14",
+        "NUMBER_": "884-2962",
+        "BLDG_CODE": " ",
+        "NAME": "WEST SIDE TROWBRIDGE CENTER",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E14",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32277614093145,
+          38.939963588434175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3248,
+        "NOTES": "EXCELLENCE HALL",
+        "NUMBER_": "771-9191",
+        "BLDG_CODE": "37037",
+        "NAME": "EXCELLENCE HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982076547808,
+          38.93931291417171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3249,
+        "NOTES": "TAPS L4 STR 5",
+        "NUMBER_": "884-2814",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33189414010062,
+          38.944810578242965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3250,
+        "NOTES": "CAG L3 SW",
+        "NUMBER_": "884-2786",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3312486312786,
+          38.94545790433177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3251,
+        "NOTES": "CAG L1 NE",
+        "NUMBER_": "884-7112",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3262957167274,
+          38.94336462713978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3252,
+        "NOTES": "NE CORNER BRADY COMMONS",
+        "NUMBER_": "884-9594",
+        "BLDG_CODE": " ",
+        "NAME": "SOUTH SIDE ELLIS LIBRARY",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E33",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982596978206,
+          38.93849837492207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3253,
+        "NOTES": "TAPS L5 STR 4",
+        "NUMBER_": "884-2817",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32476259854522,
+          38.93657070776401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3254,
+        "NOTES": "PS#7 L5 STR 3",
+        "NUMBER_": "884-9726",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32652822782367,
+          38.94775671514514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3255,
+        "NOTES": "HSG L5 STR 2",
+        "NUMBER_": "884-2953",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34061838384785,
+          38.92936679933401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3256,
+        "NOTES": "RP-4",
+        "NUMBER_": "884-7133",
+        "BLDG_CODE": " ",
+        "NAME": "NW CORNER RP4 PARKING LOT",
+        "OWNER": null,
+        "TYPE": "Wall Mount old Phone Stand w/Light",
+        "LOC": "E2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32355358983732,
+          38.9465840208927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3257,
+        "NOTES": "UAG L3 SE",
+        "NUMBER_": "884-2778",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32553842969912,
+          38.93654435898671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3258,
+        "NOTES": "PS#7 L1 STR 4",
+        "NUMBER_": "884-9704",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32355417556063,
+          38.94654412164659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3201,
+        "NOTES": "UAG L1 SE",
+        "NUMBER_": "884-2843",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104461479478,
+          38.943986799785094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3202,
+        "NOTES": "TAG L7 STR 2",
+        "NUMBER_": "884-1352",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L7",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32859037249501,
+          38.94722887705674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3204,
+        "NOTES": "8TH ST. CIRCLE",
+        "NUMBER_": "884-7132",
+        "BLDG_CODE": " ",
+        "NAME": "8TH ST CIRCLE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E31",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33158678929276,
+          38.943763308450315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3205,
+        "NOTES": "TAG L5 STR 1",
+        "NUMBER_": "884-7125",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32355258520123,
+          38.946565349405965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3206,
+        "NOTES": "UAG L2 SE",
+        "NUMBER_": "884-2776",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32554032719212,
+          38.9365636182729
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3207,
+        "NOTES": "PS#7 L2 STR 4",
+        "NUMBER_": "884-9705",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33044501282028,
+          38.938617392641746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3208,
+        "NOTES": "TAPS L2 STR 2",
+        "NUMBER_": "884-2799",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33144001513024,
+          38.93574075030754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3209,
+        "NOTES": "NW SG5",
+        "NUMBER_": "884-6577",
+        "BLDG_CODE": " ",
+        "NAME": "NW CORNER HEARNES",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E7",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33124959214246,
+          38.94550367035186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3210,
+        "NOTES": "CAG L4 NE",
+        "NUMBER_": "884-7115",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33159206800275,
+          38.94369208367868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3211,
+        "NOTES": "TAG L1 STR 1",
+        "NUMBER_": "884-7121",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32383566067949,
+          38.94332942787066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3212,
+        "NOTES": "BETWEEN TUCKER/LIFESCIENCES",
+        "NUMBER_": "882-1206",
+        "BLDG_CODE": " ",
+        "NAME": "SE CORNER TUCKER HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E39",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982447759777,
+          38.93853536951541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3213,
+        "NOTES": "TAPS L6 STR 4",
+        "NUMBER_": "884-2822",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32846351816501,
+          38.94306459022137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3214,
+        "NOTES": "HULSTON/GC8",
+        "NUMBER_": "884-2964",
+        "BLDG_CODE": " ",
+        "NAME": "SW CORNER HULSTON HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E32",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3303066622842,
+          38.93916168429628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3215,
+        "NOTES": "TAPS L2 STR 3",
+        "NUMBER_": "884-2803",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33052204336435,
+          38.937797967790644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3216,
+        "NOTES": "TAPS L1 STR 1",
+        "NUMBER_": "884-7148",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982095348031,
+          38.939316298016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3217,
+        "NOTES": "TAPS L3 STR 5",
+        "NUMBER_": "884-2810",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32476261209575,
+          38.936565201823335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3218,
+        "NOTES": "PS#7 L3 STR 3",
+        "NUMBER_": "884-9723",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33030548860917,
+          38.93920887690948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3219,
+        "NOTES": "TAPS L6 STR 3",
+        "NUMBER_": "884-2821",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3305248892784,
+          38.93785984641135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3220,
+        "NOTES": "TAPS L4 STR 1",
+        "NUMBER_": "884-8258",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33030485710158,
+          38.93919556061543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3221,
+        "NOTES": "TAPS L5 STR 3",
+        "NUMBER_": "884-2816",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32433672611295,
+          38.93988998282963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3222,
+        "NOTES": "VIR L4 STR 3",
+        "NUMBER_": "882-4700",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31774512389812,
+          38.93857789089825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3223,
+        "NOTES": "920 East Campus Dr",
+        "NUMBER_": "884-2288",
+        "BLDG_CODE": " ",
+        "NAME": "920 East Campus Dr",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E15",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33122016130481,
+          38.94480783547111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3224,
+        "NOTES": "CAG L4 SE",
+        "NUMBER_": "884-2788",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33042180902946,
+          38.9386167337488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3225,
+        "NOTES": "TAPS L1 STR 2",
+        "NUMBER_": "884-2796",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33121576123511,
+          38.9447948605699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3227,
+        "NOTES": "CAG L3 SE",
+        "NUMBER_": "884-2785",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32738896521793,
+          38.94451257563977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3228,
+        "NOTES": "W SIDE OF ELLIS/9TH ST",
+        "NUMBER_": "884-7130",
+        "BLDG_CODE": " ",
+        "NAME": "CONLEY AVE & 9TH ST",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E34",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33159115904279,
+          38.9437052346805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3229,
+        "NOTES": "TAG L2 STR 1",
+        "NUMBER_": "884-0153",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32982038826914,
+          38.939305685249224
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3346,
+        "NOTES": "TAPS L2 STR 5",
+        "NUMBER_": "884-2805",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32620314694164,
+          38.94026667463832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3347,
+        "NOTES": "DEFOE-GRAHAM W HALL W DOOR",
+        "NUMBER_": "882-8867",
+        "BLDG_CODE": "37318",
+        "NAME": "DEFOE-GRAHAM",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.331249192561,
+          38.94548780052226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3348,
+        "NOTES": "CAG L3 NE",
+        "NUMBER_": "884-7114",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32422945476559,
+          38.94733057632625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3349,
+        "NOTES": "UAG L2 NW",
+        "NUMBER_": "884-7118",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33017770333082,
+          38.943586639289286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3350,
+        "NOTES": "TAG L5 STR 4",
+        "NUMBER_": "884-0827",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32254938740088,
+          38.944106464810126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3351,
+        "NOTES": "Chemistry Bldg 2nd Floor W Hall",
+        "NUMBER_": "884-8280",
+        "BLDG_CODE": "37278",
+        "NAME": "CHEMISTRY TEACHING LABORATORY",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "F2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32646954194436,
+          38.948195562596965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3352,
+        "NOTES": "HSG L3 STR 1",
+        "NUMBER_": "884-3073",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33104771739033,
+          38.94388492520101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3353,
+        "NOTES": "TAG L1 STR 2",
+        "NUMBER_": "884-0091",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31584725393625,
+          38.941165175076264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3354,
+        "NOTES": "AV-9 BY STAIRS",
+        "NUMBER_": "882-1641",
+        "BLDG_CODE": " ",
+        "NAME": "AV9 PARKING LOT",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Post w/Light",
+        "LOC": "E16",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3264673082824,
+          38.94820749724261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3355,
+        "NOTES": "HSG L4 STR 1",
+        "NUMBER_": "884-3043",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33085454869325,
+          38.932772677310986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3356,
+        "NOTES": "SE HEARNES SG4",
+        "NUMBER_": "884-1305",
+        "BLDG_CODE": " ",
+        "NAME": "ACROSS CHAMPIONS DR S OF HEARNES",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E8",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31984612035775,
+          38.94078357153239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3357,
+        "NOTES": "BETWEEN HATCH / AG ENG",
+        "NUMBER_": "884-1912",
+        "BLDG_CODE": " ",
+        "NAME": "NE SIDE OF HATCH HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E18",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32579800290983,
+          38.94701237106936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3358,
+        "NOTES": "HSG L2 STR 4",
+        "NUMBER_": "884-2713",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34093801076992,
+          38.931188097257916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3360,
+        "NOTES": "FRONT OF REACTOR",
+        "NUMBER_": "771-3941",
+        "BLDG_CODE": "37049",
+        "NAME": "MURR MAIL SORTING",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32432851219762,
+          38.93996289378071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3361,
+        "NOTES": "VIR L6 STR 3",
+        "NUMBER_": "882-4666",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32440366925331,
+          38.93735059145824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3362,
+        "NOTES": "PS#7 L2 STR 2",
+        "NUMBER_": "884-9730",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33267898044845,
+          38.93910080398621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3363,
+        "NOTES": "NORTH HALL EAST SIDE",
+        "NUMBER_": "884-6895",
+        "BLDG_CODE": " ",
+        "NAME": "EAST SIDE NORTH HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E27",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32647030168077,
+          38.94818535717948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3364,
+        "NOTES": "HSG L2 STR 1",
+        "NUMBER_": "884-3072",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34112636915916,
+          38.92669138673983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3365,
+        "NOTES": "GREEN TENNIS CENTER",
+        "NUMBER_": "882-4193",
+        "BLDG_CODE": " ",
+        "NAME": "SE CORNER INDOOR TENNIS FACILITY",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33591690395818,
+          38.944002762657185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3366,
+        "NOTES": "Center area in University Village",
+        "NUMBER_": "882-2204",
+        "BLDG_CODE": " ",
+        "NAME": "UNIVERSITY VILLAGE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32579874838505,
+          38.94707118730751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3367,
+        "NOTES": "HSG L5 STR 4",
+        "NUMBER_": "884-2952",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32476260567745,
+          38.93656780975827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3368,
+        "NOTES": "PS#7 L4 STR 3",
+        "NUMBER_": "884-9725",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33158799770545,
+          38.94373816675465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3369,
+        "NOTES": "TAG L4 STR 1",
+        "NUMBER_": "884-0529",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32550848378769,
+          38.94446674455285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3370,
+        "NOTES": "MEM UNION/GENTRY",
+        "NUMBER_": "884-7164",
+        "BLDG_CODE": " ",
+        "NAME": "IN FRONT OF GENTRY HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E36",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32436590516787,
+          38.94049012566623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3371,
+        "NOTES": "VIR L3 STR 2",
+        "NUMBER_": "882-4791",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33002596372674,
+          38.94149145362672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3372,
+        "NOTES": "CG-17",
+        "NUMBER_": "882-9964",
+        "BLDG_CODE": " ",
+        "NAME": "NW CORNER OF STANKOWSKE FIELD",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E26",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33533858715795,
+          38.93623331674562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3374,
+        "NOTES": "PROV WALKWAY/SG7",
+        "NUMBER_": "882-8449",
+        "BLDG_CODE": " ",
+        "NAME": "EAST SIDE PROVIDENCE RD BRIDGE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32506382397754,
+          38.94051395694809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3375,
+        "NOTES": "VIR L4 STR 1",
+        "NUMBER_": "882-4519",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33615741050203,
+          38.929780744551785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3376,
+        "NOTES": "MICK DEAVER DR BY TRAIL",
+        "NUMBER_": "884-0019",
+        "BLDG_CODE": " ",
+        "NAME": "SOUTH END MICK DEAVER DR ON NORTH SIDE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32422822112167,
+          38.946606223893085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3377,
+        "NOTES": "UAG L4 SW",
+        "NUMBER_": "882-1719",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33016953466506,
+          38.94388272921008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3378,
+        "NOTES": "TAG L2 STR 3",
+        "NUMBER_": "884-0238",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32647976405322,
+          38.947033914083896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3379,
+        "NOTES": "HSG L3 STR 3",
+        "NUMBER_": "884-3274",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.324228049871,
+          38.94659008413466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3380,
+        "NOTES": "UAG L3 SW",
+        "NUMBER_": "884-7119",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32125951323141,
+          38.94114575214638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3381,
+        "NOTES": "COLLEGE AVE HOUSING NORTH",
+        "NUMBER_": "884-6818",
+        "BLDG_CODE": "37219",
+        "NAME": "COLLEGE AVE HOUSING",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33017525391895,
+          38.94963783267119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3382,
+        "NOTES": "LOCUST STREET BLDG",
+        "NUMBER_": "771-9133",
+        "BLDG_CODE": "37301",
+        "NAME": "LOCUST STREET BUILDING EAST",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33043661177237,
+          38.93861706784551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3383,
+        "NOTES": "TAPS L3 STR 2",
+        "NUMBER_": "884-2806",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32131008226712,
+          38.93905719072806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3384,
+        "NOTES": "TELECOM-EAST DOOR",
+        "NUMBER_": "882-2285",
+        "BLDG_CODE": "37142",
+        "NAME": "TELECOM EAST DOOR",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32639279100204,
+          38.94052871413962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3385,
+        "NOTES": "East Side Hawthorn",
+        "NUMBER_": "884-9288",
+        "BLDG_CODE": " ",
+        "NAME": "EAST SIDE HAWTHORN",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3250641247354,
+          38.940528163705544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3386,
+        "NOTES": "VIR L6 STR 1",
+        "NUMBER_": "882-4613",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3251445858452,
+          38.93990526786407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3387,
+        "NOTES": "VIR L4 STR 4",
+        "NUMBER_": "882-4636",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33309918539975,
+          38.941641566464504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3388,
+        "NOTES": "N Side Burnam at Providence Rd",
+        "NUMBER_": "882-4198",
+        "BLDG_CODE": " ",
+        "NAME": "BURNAM AND PROVIDENCE RD",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Utility Pole w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32646871504289,
+          38.94823331568202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3389,
+        "NOTES": "HSG L6 STR 1",
+        "NUMBER_": "884-3076",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3264110889656,
+          38.93972112220648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3390,
+        "NOTES": "DOGWOOD NE ",
+        "NUMBER_": "884-9287",
+        "BLDG_CODE": " ",
+        "NAME": "DOGWOOD",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E22",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32513824942403,
+          38.941558043641194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3391,
+        "NOTES": "WOLPERS HALL",
+        "NUMBER_": "771-3715",
+        "BLDG_CODE": "37239",
+        "NAME": "WOLPERS HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount on Post w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3305233038927,
+          38.93784553780176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3392,
+        "NOTES": "TAPS L3 STR 1",
+        "NUMBER_": "884-8257",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32433804044578,
+          38.93984068612543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3393,
+        "NOTES": "VIR L2 STR 3",
+        "NUMBER_": "882-4708",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33052530798462,
+          38.937877774720995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3394,
+        "NOTES": "TAPS L5 STR 1",
+        "NUMBER_": "884-8259",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33083823489106,
+          38.94427201775157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3395,
+        "NOTES": "TAG NW OUTSIDE",
+        "NUMBER_": "884-6999",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E28 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32328164256286,
+          38.94188006836328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3396,
+        "NOTES": "Rollins Commons",
+        "NUMBER_": "771-8542",
+        "BLDG_CODE": "37242",
+        "NAME": "ROLLINS DINING HALL WEST DOOR",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32440316091807,
+          38.93736822922461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3397,
+        "NOTES": "PS#7 L3 STR 2",
+        "NUMBER_": "884-9731",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32326363847721,
+          38.93910841412667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3398,
+        "NOTES": "SOUTHSIDE RESPONSIBILITY",
+        "NUMBER_": "882-1238",
+        "BLDG_CODE": " ",
+        "NAME": "SOUTH OF RESPONSIBILITY HALL",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E20",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3244046466962,
+          38.9373316896121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3399,
+        "NOTES": "PS#7 L1 STR 2",
+        "NUMBER_": "884-9729",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33189559537416,
+          38.944824476746135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3400,
+        "NOTES": "CAG L4 SW",
+        "NUMBER_": "884-2790",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33017302772069,
+          38.943554368781
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3401,
+        "NOTES": "TAG L4 STR 4",
+        "NUMBER_": "884-7124",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33030491290523,
+          38.93917214775943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3402,
+        "NOTES": "TAPS L3 STR 3",
+        "NUMBER_": "884-2807",
+        "BLDG_CODE": "37179",
+        "NAME": "TIGER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33124840770293,
+          38.945469490652485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3403,
+        "NOTES": "CAG L2 NE",
+        "NUMBER_": "884-7113",
+        "BLDG_CODE": "37164",
+        "NAME": "CONLEY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33352792850786,
+          38.9390866773264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3404,
+        "NOTES": "SW HOUSING CENTER BLDG EAST",
+        "NUMBER_": "884-6797",
+        "BLDG_CODE": "37291",
+        "NAME": "CENTER HALL",
+        "OWNER": null,
+        "TYPE": "Wall Mount w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.324229804963,
+          38.94736908337636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3405,
+        "NOTES": "UAG L4 NW",
+        "NUMBER_": "884-7120",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32476274787223,
+          38.936560179819594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3406,
+        "NOTES": "PS#7 L1 STR 3",
+        "NUMBER_": "884-9720",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3257983458233,
+          38.94705372927416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3407,
+        "NOTES": "HSG L4 STR 4",
+        "NUMBER_": "884-3044",
+        "BLDG_CODE": "37279",
+        "NAME": "HITT STREET PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L4",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32514407464838,
+          38.939924137075394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3408,
+        "NOTES": "VIR L6 STR 4",
+        "NUMBER_": "882-4779",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L6",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3243339550239,
+          38.93991493113425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3409,
+        "NOTES": "VIR L5 STR 3",
+        "NUMBER_": "882-4739",
+        "BLDG_CODE": "37131",
+        "NAME": "VIRGINIA AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L5",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32340484226073,
+          38.94399364066413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3410,
+        "NOTES": "WC-2, WEST OF PHYSICS",
+        "NUMBER_": "882-9374",
+        "BLDG_CODE": " ",
+        "NAME": "ACROSS DRIVE SW CORNER SEARS GREENHOUSE",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E38",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34133848244356,
+          38.93163173025006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3411,
+        "NOTES": "REACTOR SECURITY CABINET",
+        "NUMBER_": "884-9986",
+        "BLDG_CODE": "37370",
+        "NAME": "MU RESEARCH REACTOR FACILITY",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33091023186931,
+          38.94368092201873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3412,
+        "NOTES": "TAG PARKING OPS",
+        "NUMBER_": "884-0150",
+        "BLDG_CODE": "37378",
+        "NAME": "TURNER AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33222282360177,
+          38.929895042270154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3413,
+        "NOTES": "PRESIDENT'S RESIDENCE",
+        "NUMBER_": "882-9793",
+        "BLDG_CODE": "41008",
+        "NAME": "PROVIDENCE POINT",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32351203121175,
+          38.94733093239852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3414,
+        "NOTES": "UAG L3 NE",
+        "NUMBER_": "884-2826",
+        "BLDG_CODE": "37165",
+        "NAME": "UNIVERSITY AVENUE PARKING GARAGE",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L3",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32595070289234,
+          38.937307043719606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3415,
+        "NOTES": "PS#7 L1 STR 1",
+        "NUMBER_": "884-9714",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L1 ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.31754307436323,
+          38.93488821423357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3330,
+        "NOTES": "East SideBLDG 1 Tara Apartments",
+        "NUMBER_": "882-5721",
+        "BLDG_CODE": " ",
+        "NAME": "TARA APARTMENTS",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": " ",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32594609715271,
+          38.936579940143446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3521,
+        "NOTES": "PS#7 L2 SW Corner Entrance to Bridge",
+        "NUMBER_": "884-6108",
+        "BLDG_CODE": "37323",
+        "NAME": "PARKING STRUCTURE #7",
+        "OWNER": null,
+        "TYPE": "Wall Mount",
+        "LOC": "L2",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32741034519752,
+          38.93976315634065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3237,
+        "NOTES": "West Side Dogwood bottom Stairs",
+        "NUMBER_": "884-9286",
+        "BLDG_CODE": " ",
+        "NAME": "WEST SIDE DOGWOOD",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E23",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32760720778847,
+          38.93439595441619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3203,
+        "NOTES": "SG-2 General Services Bldg",
+        "NUMBER_": "884-5710",
+        "BLDG_CODE": " ",
+        "NAME": "NW CORNER GENERAL SERVICES BLDG",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": "E11",
+        "MAINT_ID": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33310512593991,
+          38.90017819319807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3373,
+        "NOTES": "West Side of SPMB",
+        "NUMBER_": "884-6332",
+        "BLDG_CODE": "42414",
+        "NAME": "SOUTH PROVIDENCE MEDICAL BUILDING",
+        "OWNER": null,
+        "TYPE": "Code Blue Tower w/Light",
+        "LOC": null,
+        "MAINT_ID": null
+      }
+    }
+  ]
+}
