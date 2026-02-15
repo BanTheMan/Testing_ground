@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.gpkg
+*.sqlite
+*.db
+data/cache/
+data/*.graphml
+data/*.pkl
+.streamlit/secrets.toml
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
