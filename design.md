@@ -15,39 +15,134 @@ The design emphasizes:
 ### System Components
 
 ```mermaid
-graph TB
-    User[User Interface] --> Orchestrator[Agent Orchestrator]
-    Orchestrator --> CM[Conversation Manager Agent]
-    Orchestrator --> SIA[Safety Intelligence Analyst Agent]
-    Orchestrator --> RA[Route Advisor Agent]
-    
-    CM --> Geocoder[Geocoding Service]
-    SIA --> CrimeDB[(Crime Dataset)]
-    SIA --> TrafficDB[(Traffic Stops Dataset)]
-    SIA --> OSM[(OpenStreetMap API)]
-    RA --> OSRM[OSRM Routing API]
-    
-    RA --> MapUI[Map Visualization]
-    MapUI --> User
+classDiagram
+    class ai_advisor {
+        +dict CAMPUS_LOCATIONS
+        +string SYSTEM_PROMPT
+        +string build_route_context(list routes, dict shuttle_info, int hour, string mode)
+        +string get_route_analysis(list routes, dict shuttle_info, int hour, string mode, string api_key)
+        +tuple chat_with_advisor(string user_message, list conversation_history, string route_context, string api_key)
+        +tuple resolve_location(string name)
+    }
+
+    class data_loader {
+        +DataFrame load_cpd_crimes()
+        +DataFrame load_mupd_crimes()
+        +DataFrame load_mupd_incidents()
+        +DataFrame load_shuttle_routes()
+        +DataFrame load_shuttle_stops()
+        +GeoDataFrame load_campus_buildings()
+        +GeoDataFrame load_campus_boundary()
+        +GeoDataFrame load_emergency_phones()
+        +GeoDataFrame load_accessible_entrances()
+        +DataFrame load_traffic_stops(int recent_years)
+        +GeoDataFrame load_all_crimes_unified()
+    }
+
+    class crime_analyzer {
+        +dict normalize_crime_category(string description, string source)
+        +dict compute_crime_density_along_route(GeoDataFrame crimes, list route_coords, float buffer_m)
+        +dict compute_temporal_crime_pattern(GeoDataFrame crimes, float lat, float lon, float radius_m)
+        +list get_recent_incidents_near(GeoDataFrame crimes, float lat, float lon, float radius_m, int limit)
+    }
+
+    class route_engine {
+        +MultiDiGraph download_graph(string mode, bool force)
+        +MultiDiGraph load_graph(string mode)
+        +dict find_route(MultiDiGraph G, tuple origin, tuple dest, string weight)
+        +list find_alternative_routes(MultiDiGraph G, tuple origin, tuple dest, int num_alternatives, string weight)
+        +float estimate_travel_time(float distance_m, string mode)
+        +list compute_routes_for_mode(tuple origin, tuple dest, string mode, int num_alternatives)
+    }
+
+    class risk_scorer {
+        +dict TEMPORAL_PERIODS
+        +dict MODE_MULTIPLIERS
+        +float CRIME_WEIGHT
+        +float TEMPORAL_WEIGHT
+        +float INFRASTRUCTURE_WEIGHT
+        +float RECENCY_WEIGHT
+        +dict get_temporal_period(int hour)
+        +float get_temporal_multiplier(int hour)
+        +int count_emergency_phones_along_route(GeoDataFrame phones, list route_coords, float buffer_m)
+        +dict estimate_patrol_frequency(DataFrame traffic_stops, list route_coords, float buffer_m)
+        +dict score_route(dict route, GeoDataFrame crimes, GeoDataFrame phones, DataFrame traffic_stops, int hour, string mode)
+        +list compare_routes(list routes, GeoDataFrame crimes, GeoDataFrame phones, DataFrame traffic_stops, int hour, string mode)
+    }
+
+    class shuttle_service {
+        +dict SHUTTLE_INFO
+        +DataFrame load_shuttle_stops()
+        +DataFrame load_shuttle_routes()
+        +list decode_route_polyline(string encoded)
+        +dict get_route_geometries()
+        +list find_nearest_stops(float lat, float lon, float radius_m, int limit)
+        +dict check_shuttle_availability(string route_name, datetime dt)
+        +dict get_shuttle_for_trip(tuple origin, tuple dest, datetime dt)
+    }
+
+    class app_py {
+        +init_state()
+        +cached_load_crimes()
+        +cached_load_phones()
+        +cached_load_buildings()
+        +cached_load_shuttle_stops()
+        +cached_load_traffic_stops()
+        +ensure_data_loaded()
+    }
+
+    app_py --> ai_advisor : uses
+    app_py --> data_loader : uses
+    app_py --> crime_analyzer : uses
+    app_py --> route_engine : uses
+    app_py --> risk_scorer : uses
+    app_py --> shuttle_service : uses
+
+    data_loader ..> crime_analyzer : normalize_crime_category
+    risk_scorer ..> crime_analyzer : compute_crime_density_along_route
 ```
 
 ### Agent Communication Flow
 
 ```mermaid
 sequenceDiagram
-    participant User
-    participant CM as Conversation Manager
-    participant SIA as Safety Intelligence Analyst
-    participant RA as Route Advisor
-    
-    User->>CM: "I need to get to Ellis Library, it's 11pm"
-    CM->>CM: Extract intent, locations, priorities
-    CM->>SIA: Request safety analysis for route
-    SIA->>SIA: Query crime data, calculate risk scores
-    SIA->>RA: Provide risk analysis results
-    RA->>RA: Generate routes, rank by priority
-    RA->>CM: Return recommendations with explanations
-    CM->>User: Present routes with safety details
+    actor User
+    participant UI as StreamlitApp
+    participant DL as data_loader
+    participant RE as route_engine
+    participant RS as risk_scorer
+    participant SS as shuttle_service
+    participant AA as ai_advisor
+    participant CLAUDE as AnthropicAPI
+
+    User->>UI: Select origin, destination, mode
+    User->>UI: Click Calculate Routes
+
+    UI->>DL: ensure_data_loaded()
+    DL-->>UI: crimes, phones, buildings, traffic_stops
+
+    UI->>RE: compute_routes_for_mode(origin, dest, mode, num_alternatives)
+    RE->>RE: load_graph(mode)
+    RE-->>UI: routes
+
+    UI->>RS: compare_routes(routes, crimes, phones, traffic_stops, hour, mode)
+    RS->>RS: score_route for each route
+    RS-->>UI: scored_routes
+
+    UI->>SS: get_shuttle_for_trip(origin, dest)
+    SS->>SS: find_nearest_stops around origin and dest
+    SS->>SS: check_shuttle_availability()
+    SS-->>UI: shuttle_info
+
+    UI->>AA: build_route_context(scored_routes, shuttle_info, hour, mode)
+    AA-->>UI: route_context
+
+    UI->>AA: get_route_analysis(scored_routes, shuttle_info, hour, mode, api_key)
+    AA->>CLAUDE: messages.create(... route_context ...)
+    CLAUDE-->>AA: AI analysis text
+    AA-->>UI: ai_analysis
+
+    UI-->>User: Map with routes, risk scores, shuttle option, AI summary
 ```
 
 ### Technology Stack
