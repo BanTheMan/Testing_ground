@@ -90,35 +90,41 @@ st.markdown("""
 
 
 # --- Session State ---
-def init_state():
-    defaults = {
-        "messages": [],
-        "conversation_history": [],
-        "crimes": None,
-        "phones": None,
-        "buildings": None,
-        "traffic_stops": None,
-        "data_loaded": False,
-        "routes": [],
-        "scored_routes": [],
-        "shuttle_info": None,
-        "ai_analysis": "",
-        "route_context": "",
-        "origin_name": "",
-        "dest_name": "",
-        "origin_coords": None,
-        "dest_coords": None,
-        "travel_mode": "walk",
-        "current_hour": datetime.now().hour,
-        "show_heatmap": True,
-        "show_phones": True,
-        "show_buildings": False,
-        "show_shuttle_stops": True,
-        "graphs_ready": set(),
-    }
-    for key, val in defaults.items():
-        if key not in st.session_state:
-            st.session_state[key] = val
+_STATE_DEFAULTS = {
+    "messages": [],
+    "conversation_history": [],
+    "crimes": None,
+    "phones": None,
+    "buildings": None,
+    "traffic_stops": None,
+    "data_loaded": False,
+    "routes": [],
+    "scored_routes": [],
+    "shuttle_info": None,
+    "ai_analysis": "",
+    "route_context": "",
+    "origin_name": "",
+    "dest_name": "",
+    "origin_coords": None,
+    "dest_coords": None,
+    "travel_mode": "walk",
+    "current_hour": datetime.now().hour,
+    "show_heatmap": True,
+    "show_phones": True,
+    "show_buildings": False,
+    "show_shuttle_stops": True,
+    "graphs_ready": set(),
+}
+
+
+def init_state(force: bool = False):
+    for key, val in _STATE_DEFAULTS.items():
+        if force or key not in st.session_state:
+            # Use a fresh copy for mutable defaults
+            if isinstance(val, (list, dict, set)):
+                st.session_state[key] = type(val)()
+            else:
+                st.session_state[key] = val
 
 
 init_state()
@@ -161,6 +167,8 @@ def ensure_data_loaded():
 
 
 # --- Sidebar ---
+api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+
 with st.sidebar:
     st.title("TigerSafe")
     st.caption("Campus Dispatch Copilot — Mizzou")
@@ -203,9 +211,7 @@ with st.sidebar:
 
     st.divider()
     if st.button("Clear Session", use_container_width=True):
-        for key in ["messages", "conversation_history", "routes", "scored_routes",
-                     "shuttle_info", "ai_analysis", "route_context"]:
-            st.session_state[key] = [] if "routes" in key or "messages" in key or "history" in key else ""
+        init_state(force=True)
         st.rerun()
 
 

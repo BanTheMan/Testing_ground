@@ -21,7 +21,12 @@ try:
 except ImportError:
     pass
 
-import anthropic
+try:
+    import anthropic
+    _HAS_ANTHROPIC = True
+except ImportError:
+    anthropic = None
+    _HAS_ANTHROPIC = False
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -272,7 +277,7 @@ def get_route_analysis(
     """
     if not api_key:
         api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    if not api_key:
+    if not api_key or not _HAS_ANTHROPIC:
         return _generate_fallback_analysis(routes, shuttle_info, hour, mode)
 
     context = build_route_context(routes, shuttle_info, hour, mode)
@@ -300,7 +305,7 @@ Keep it concise (3-4 short paragraphs). Be informative, not alarming.
             messages=[{"role": "user", "content": user_prompt}],
         )
         return response.content[0].text
-    except Exception as e:
+    except Exception:
         return _generate_fallback_analysis(routes, shuttle_info, hour, mode)
 
 
@@ -323,11 +328,11 @@ def chat_with_advisor(
     """
     if not api_key:
         api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    if not api_key:
-        return (
-            "Please set your Anthropic API key in the .env file or sidebar to use the AI advisor.",
-            conversation_history,
-        )
+    if not api_key or not _HAS_ANTHROPIC:
+        msg = "Please set your Anthropic API key in the .env file or sidebar to use the AI advisor."
+        if not _HAS_ANTHROPIC:
+            msg = "The `anthropic` package is not installed. Install it with `pip install anthropic` to use the AI advisor."
+        return msg, conversation_history
 
     model = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
 

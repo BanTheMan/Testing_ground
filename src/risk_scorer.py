@@ -270,12 +270,13 @@ def compare_routes(
     # Sort by risk score (safest first)
     scored.sort(key=lambda r: r["risk_score"]["score"])
 
-    # Add relative labels
+    # Add relative labels: safest first, then find fastest, rest are alternatives
     if scored:
+        fastest = min(scored, key=lambda x: x.get("estimated_time_min", float("inf")))
         scored[0]["recommendation"] = "Safest Route"
-    for i, r in enumerate(scored):
-        if i > 0:
-            fastest = min(scored, key=lambda x: x.get("estimated_time_min", float("inf")))
+        for i, r in enumerate(scored):
+            if i == 0:
+                continue
             if r is fastest:
                 r["recommendation"] = "Fastest Route"
             else:
